@@ -1,6 +1,7 @@
 div {
   border: 1px solid red;
 }
+
 div h1, div h2 {
   text-align: center;
   text-decoration: underline 1px blue;
@@ -37,7 +38,7 @@ div #footer-section {
 div #footer-section #footer-article {
   text-align: center;
   color: green;
-  border: 1px solid green;
+  border: 1px solid blue;
   font-size: 1.5rem;
 }
 
